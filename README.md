@@ -1,0 +1,2 @@
+# InspectMusicBot
+Best Music Bot!
